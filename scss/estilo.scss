@@ -1,0 +1,48 @@
+@import "variables";
+@import "condicionales";
+@import "bucles";
+@import "maps";
+@import "extend";
+@import "mixin";
+body{
+    background-image: url(/img/cbum.jpg);
+    background-size: cover;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+// header{
+//     background-color:$color-header;
+//     display: flex;
+//     align-items: center;
+//     justify-content:flex-start;
+
+    
+.search {
+  color: white;
+ 
+}
+  
+
+
+//     nav{
+//         background-color: white;
+//         margin-left: 10px;
+
+//         li{
+//             display: inline-block;
+//             margin: 10px;
+
+//             a{
+//                 text-decoration: none;
+//                 font-weight: bold;
+//                 text-transform: uppercase;
+                
+//             }
+//         }
+        
+//     }
+// }
+

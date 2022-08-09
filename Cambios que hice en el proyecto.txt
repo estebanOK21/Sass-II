@@ -1,0 +1,6 @@
+-Agregue keywords
+-Cambie el titulo del archivo
+-Le agregue un favicon a la pagina
+-El trabajo esta hecho con boostrap pero modifique el color con scss
+-Aplique todo lo visto en sass II
+-Comprobe si el seo de la pagina estaba bien y me indica que es del 100%
